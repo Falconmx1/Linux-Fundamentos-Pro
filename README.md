@@ -17,14 +17,14 @@ Este repositorio está diseñado para guiarte en el aprendizaje de Linux de mane
 ## 📚 Estructura del Contenido
 
 Linux-Fundamentos-Pro/
-├── 01-introduccion/ # Historia, instalación y primeros pasos
-├── 02-comandos-esenciales/ # Comandos básicos y manejo de archivos
-├── 03-scripts-bash/ # Programación en Bash desde cero
-├── 04-administracion-sistemas/ # Gestión de usuarios, permisos y procesos
-├── 05-redes-y-seguridad/ # Configuración de red, firewalls y SSH
-├── 06-automatizacion-cron/ # Tareas programadas con cron y systemd
-├── 07-virtualizacion-contenedores/ # Docker, Vagrant y más
-├── 08-proyectos-practicos/ # Proyectos integradores para aplicar lo aprendido
-└── resources/ # Cheatsheets, configuraciones y utilidades
-├── cheatsheets/
-└── configs/
+01-introduccion/ # Historia, instalación y primeros pasos
+02-comandos-esenciales/ # Comandos básicos y manejo de archivos
+03-scripts-bash/ # Programación en Bash desde cero
+04-administracion-sistemas/ # Gestión de usuarios, permisos y procesos
+05-redes-y-seguridad/ # Configuración de red, firewalls y SSH
+06-automatizacion-cron/ # Tareas programadas con cron y systemd
+07-virtualizacion-contenedores/ # Docker, Vagrant y más
+08-proyectos-practicos/ # Proyectos integradores para aplicar lo aprendido
+resources/ # Cheatsheets, configuraciones y utilidades
+cheatsheets/
+configs/
