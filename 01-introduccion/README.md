@@ -42,9 +42,9 @@ pwd   # Muestra tu ubicación actual
 whoami # Muestra tu nombre de usuario
 
 🔗 Recursos adicionales
-Linux Journey
+Linux Journey - https://labex.io/linuxjourney
 
-TLDP - Guía de Introducción
+TLDP - Guía de Introducción - https://tldp.org/LDP/intro-linux/html/
 
 Documentación oficial de Ubuntu
 
