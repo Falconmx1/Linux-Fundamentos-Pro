@@ -1,0 +1,57 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Logs
+*.log
+*.out
+*.err
+
+# Archivos de configuración local
+.env
+*.local
+*.user
+
+# Archivos de backup
+*.bak
+*.old
+*.orig
+
+# Archivos comprimidos
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+
+# Imágenes pesadas (opcional)
+*.iso
+*.img
+
+# Directorios de caché
+.cache/
+*.cache
+
+# Archivos de editor
+.vscode/
+.idea/
+*.iml
+
+# Bash history
+.bash_history
+
+# Archivos ejecutables compilados
+*.exe
+*.bin
+*.o
+*.so
+*.a
+
+# Archivos de prueba
+test/
+temp/
+tmp/
